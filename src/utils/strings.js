@@ -1,0 +1,18 @@
+export default {
+  app_name: 'Todo List',
+  add_todo: 'Todo ekle',
+  delete: 'Sil',
+  login_screen: 'Login Screen',
+  login_button: 'LOGIN',
+  login_email_input_placeholder: 'Email',
+  login_password_input_placeholder: 'Password',
+  input_placeholder: 'Add New Todo',
+  edit_input_placeholder: 'Edit Your Todo',
+  add_button: 'Add',
+  todo_screen_title: 'Todo Screen',
+  splash: 'TO DO APP',
+  logout_button: 'LOGOUT',
+  modal_edit_button: 'Edit',
+  modal_close_button: 'Close',
+  input_alert: 'Please write a task',
+};
